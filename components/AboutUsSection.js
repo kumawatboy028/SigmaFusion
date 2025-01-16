@@ -126,10 +126,10 @@ export default function About() {
         <div className="container mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-12">About Us</h2>
           <p className="text-lg text-gray-600 mb-8 text-center max-w-3xl mx-auto">
-            We're a versatile team specializing in AI/ML, IoT, computer vision,
+            We&apos;re a versatile team specializing in AI/ML, IoT, computer vision,
             and full-stack development. From crafting sleek, user-friendly
             interfaces to building robust, scalable systems, we bring innovative
-            solutions to life. With over 5 years of experience, we've empowered
+            solutions to life. With over 5 years of experience, we&apos;ve empowered
             businesses to elevate their digital and technological presence.
           </p>
 
