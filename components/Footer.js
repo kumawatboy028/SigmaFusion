@@ -1,4 +1,4 @@
-import { Code } from "lucide-react";
+
 import React from "react";
 
 const Footer = () => {
